@@ -7,7 +7,7 @@
   Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, com foco em criar soluções robustas e escaláveis através do desenvolvimento backend. Tenho experiência com <b>Java</b>, <b>Spring Boot</b> e <b>Flask</b>, além de entusiasmo por aprender novas tecnologias e contribuir para projetos reais. Meu objetivo é crescer como desenvolvedor e impactar positivamente o mundo da tecnologia.
 </p>
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/gustavo07henri">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo07henri&show_icons=true&theme=dracula&rank_icon=github&hide=stars,contribs&locale=pt-br"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo07henri&layout=compact&theme=dracula&locale=pt-br"/>
@@ -16,9 +16,8 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-
 <div align="center" style="display: inline_block"><br>
+  <h3>🚀 Tecnologias e Ferramentas</h3>
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
   <img alt="Spring Boot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot">
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
@@ -28,23 +27,8 @@
 </div>
 
 ---
-
-## 🌟 Projetos em Destaque
-
 <div align="center">
-  <a href="https://github.com/gustavo07henri/Projeto_05_Flask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo07henri&repo=Projeto_05_Flask&show_owner=true&theme=dracula" alt="Projeto_05_Flask"/>
-  </a>
-  <a href="https://github.com/gustavo07henri/BackendFromFlask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo07henri&repo=BackendFromFlask&show_owner=true&theme=dracula" alt="BackendFromFlask"/>
-  </a>
-</div>
-
----
-
-## 📫 Conecte-se Comigo
-
-<div align="center">
+  <h3>📫 Conecte-se Comigo</h3>
   <a href="https://instagram.com/gustavo__shg">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -53,6 +37,18 @@
   </a>
   <a href="mailto:fondue.cadge.2r@icloud.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>🌟 Projetos em Destaque</h3>
+  <a href="https://github.com/gustavo07henri/Projeto_05_Flask">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo07henri&repo=Projeto_05_Flask&show_owner=true&theme=dracula" alt="Projeto_05_Flask"/>
+  </a>
+  <a href="https://github.com/gustavo07henri/BackendFromFlask">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo07henri&repo=BackendFromFlask&show_owner=true&theme=dracula" alt="BackendFromFlask"/>
   </a>
 </div>
 
