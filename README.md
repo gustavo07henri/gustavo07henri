@@ -9,8 +9,8 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/gustavo07henri">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo07henri&show_icons=true&theme=dracula&rank_icon=github&hide=stars,contribs&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo07henri&layout=compact&theme=dracula&locale=pt-br"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavo07henri&show_icons=true&theme=dracula&rank_icon=github&hide=stars,contribs&locale=pt-br"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo07henri&layout=compact&theme=dracula&locale=pt-br"/>
   </a>
 </div>
 
