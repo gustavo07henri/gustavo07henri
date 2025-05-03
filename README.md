@@ -5,6 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo07henri&layout=donut&theme=dark"/>
 </div>
 
+  ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -18,10 +19,11 @@
   ##
  
 <div display="in-block"> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/gustavo__shg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-santos-633a21246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+  ##
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo07henri&repo=Projeto_05_Flask&show_owner=true&theme=dark)](https://github.com/gustavo07henri/Projeto_05_Flask)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo07henri&repo=BackendFromFlask&show_owner=true&theme=dark)](https://github.com/gustavo07henri/BackendFromFlask)
