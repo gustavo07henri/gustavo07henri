@@ -1,59 +1,52 @@
-<div align="center">
-  <h1>👋 Olá! Eu sou Gustavo Henrique</h1>
-  <h3>Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por Tecnologia e Desenvolvimento Backend</h3>
+<br clear="both">
+
+<h1 align="left">👋 Olá! Eu sou Gustavo Henrique</h1>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por Tecnologia e Desenvolvimento</h2>
+
+###
+
+<p align="left">Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, com foco em criar soluções robustas e escaláveis através do desenvolvimento backend. Tenho experiência com Java, Spring Boot e Flask, além de entusiasmo por aprender novas tecnologias e contribuir para projetos reais. Meu objetivo é crescer como desenvolvedor e impactar positivamente o mundo da tecnologia.</p>
+
+###
+
+<h2 align="left">Linguagens e ferramentas</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<p align="center">
-  Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, com foco em criar soluções robustas e escaláveis através do desenvolvimento backend. Tenho experiência com <b>Java</b>, <b>Spring Boot</b> e <b>Flask</b>, além de entusiasmo por aprender novas tecnologias e contribuir para projetos reais. Meu objetivo é crescer como desenvolvedor e impactar positivamente o mundo da tecnologia.
-</p>
-
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/gustavo07henri">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavo07henri&show_icons=true&theme=dracula&rank_icon=github&hide=stars,contribs&locale=pt-br"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo07henri&layout=compact&theme=dracula&locale=pt-br"/>
-  </a>
-</div>
-
----
-
-<div align="center" style="display: inline_block"><br>
-  <h3>🚀 Tecnologias e Ferramentas</h3>
-  <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
-  <img alt="Spring Boot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot">
-  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
-  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
-</div>
-
----
-<div align="center">
-  <h3>📫 Conecte-se Comigo</h3>
-  <a href="https://instagram.com/gustavo__shg">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-santos-633a21246/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:fondue.cadge.2r@icloud.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
----
+###
 
 <div align="center">
-  <h3>🌟 Projetos em Destaque</h3>
-  <a href="https://github.com/gustavo07henri/Projeto_05_Flask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo07henri&repo=Projeto_05_Flask&show_owner=true&theme=dracula" alt="Projeto_05_Flask"/>
-  </a>
-  <a href="https://github.com/gustavo07henri/BackendFromFlask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo07henri&repo=BackendFromFlask&show_owner=true&theme=dracula" alt="BackendFromFlask"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=gustavo07henri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo07henri&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-<div align="center">
-  <p>💻 Sempre aberto a novas oportunidades e colaborações! Vamos criar algo incrível juntos?</p>
-</div>
+<img src="https://raw.githubusercontent.com/gustavo07henri/gustavo07henri/output/snake.svg" alt="Snake animation" />
+
+###
